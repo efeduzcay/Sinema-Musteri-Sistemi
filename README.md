@@ -1,4 +1,3 @@
-EMRAH SARIÇİÇEK Vize Ödevi Sinema Sistemi
 Özellikler: Film Tanımlama,Müşteri Kaydı,Bilet Kaydı.
 
 Kod:
